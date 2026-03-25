@@ -63,7 +63,24 @@ footer{background:#000;padding:20px;text-align:center;color:#aaa}
 </section>
 
 <section id="contact">
-<h2>Contact Me</h2>
+  <h2>Contact Me</h2>
+  <h2>Contact Me</h2>
+
+<p>📞 6394643385</p>
+
+<p>📧 Email: rsoyeb574@gmail.com</p>
+
+<a href="https://wa.me/916394643385" target="_blank" 
+style="background:#25D366;color:white;padding:12px 20px;border-radius:5px;text-decoration:none;display:inline-block;margin:10px;">
+💬 Chat on WhatsApp
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/mdsoyeb08" target="_blank" 
+style="background:#E1306C;color:white;padding:12px 20px;border-radius:5px;text-decoration:none;display:inline-block;">
+📸 Follow on Instagram
+</a>
 <p>📞 6394643385</p>
 <p>📸 Instagram: @mdsoyeb08</p>
 <p>📍 Interior & Home Design</p>
