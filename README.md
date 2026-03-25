@@ -38,6 +38,15 @@ footer{background:#000;padding:20px;text-align:center;color:#aaa}
 </header>
 
 <section class="hero" id="home">
+  <section class="hero" id="home">
+
+<h2>Design Your Dream Space</h2>
+<p>Professional 3D Interior & Building Design</p>
+
+<!-- YAHAN ADD KARNA HAI 👇 -->
+<a href="https://wa.me/916394643385" class="btn">Hire Me</a>
+
+</section>
 <h2>Design Your Dream Space</h2>
 <p>Professional 3D Interior & Building Design</p>
 <a class="btn" href="https://wa.me/916394643385">Hire Me</a>
