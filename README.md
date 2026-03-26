@@ -121,7 +121,7 @@ footer{background:#000;padding:20px;text-align:center;color:#aaa}
 
 <br>
 <a href="https://instagram.com/shoyebmd07" target="_blank" class="btn">Instagram</a>
-<a href="https://youtube.com/@MdSoeb008" target="_blank" class="btn">YouTube</a>
+<a href="https://youtube.com/@MdSoyeb008" target="_blank" class="btn">YouTube</a>
 </section>
 
 <!-- WHATSAPP -->
