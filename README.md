@@ -124,8 +124,7 @@ footer{background:#000;padding:20px;text-align:center;color:#aaa}
 <a href="https://youtube.com/@MdSoyeb008" target="_blank" class="btn">YouTube</a>
 </section>
 
-<!-- WHATSAPP -->
-<a href="https://wa.me/916394643385" class="whatsapp">💬</a>
+
 
 <footer>
 <p>© 2026 MD Soyeb Designs | All Rights Reserved</p>
