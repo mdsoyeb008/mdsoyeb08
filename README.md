@@ -1,5 +1,5 @@
-<!DOCTYPE html>google-site-verification: google37da617c41221159.html
-<html lang="en">
+
+<html lang="en">google-site-verification: google37da617c41221159.html
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
