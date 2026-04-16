@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE html>google-site-verification: google37da617c41221159.html
 <html lang="en">
-<head>google-site-verification: google37da617c41221159.html
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="google37da617c41221159" />
